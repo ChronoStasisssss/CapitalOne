@@ -1,0 +1,2 @@
+flutter create mobile-app
+(Luego en lib/main.dart, reemplaza el contenido con una interfaz de login simple que luego conectaremos al backend FastAPI usando HTTP.)
